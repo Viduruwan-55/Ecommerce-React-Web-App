@@ -1,4 +1,6 @@
-## E-commerce shopping Site using React.Js
+## 🏬🛍🛒E-commerce shopping Site using React.Js🛒
+
+- website - 🔗 https://Viduruwan-55.github.io/Ecommerce-React-Web-App
 
 ## Table of Contents
 
@@ -45,7 +47,7 @@ Follow these steps to set up the project on your local machine:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/e-commerce-react.git
+   git clone https://github.com/Viduruwan-55/Ecommerce-React-Web-App.git
    ```
 
 2. Navigate to the project directory:
